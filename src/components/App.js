@@ -2,9 +2,9 @@ import React from "react";
 
 function App() {
   return (
-    <main>
-      <p>I am learning React. My life is getting better.</p>
-    </main>
+    <>
+      <p id="main">I am learning React. My life is getting better.</p>
+    </>
   );
 }
 
